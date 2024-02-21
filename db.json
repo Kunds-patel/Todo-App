@@ -1,0 +1,19 @@
+{
+  "todoList": [
+    {
+      "id": "f96a",
+      "text": "dsgajnafdgkafd",
+      "isDone": true
+    },
+    {
+      "id": "91dd",
+      "text": "sdhgjsdg",
+      "isDone": false
+    },
+    {
+      "id": "0a8d",
+      "text": "vjhV",
+      "isDone": false
+    }
+  ]
+}

@@ -8,7 +8,8 @@
     "build": "webpack",
     "start": "webpack serve",
     "prepare": "husky install",
-    "lint": "lint-staged"
+    "lint": "lint-staged",
+    "start:server": "json-server db.json"
   },
   "keywords": [
     "kb"
