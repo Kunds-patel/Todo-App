@@ -1,2 +1,3 @@
-npm run start
-npm run start:server
+● npm run start
+
+● npm run start:server
